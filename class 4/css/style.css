@@ -1,0 +1,29 @@
+.background{
+    background-image: url('../images/background1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 730px;
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+    font-size: 30px;
+    border-bottom: 5px black solid;
+    margin-left:630px; 
+    margin-right:630px
+}
+
+p{
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size: 20px;
+    border: black solid ;
+    border-radius: 7px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.img{
+    
+}
